@@ -4,7 +4,7 @@ import Header from "./Header/Header";
 import Content from "./Main/Content";
 import Footer from "./Footer/Footer";
 import About from "./About/About"; 
-import Contact from "./Contact/contact"; 
+import Contact from "./Contact/Contact"; 
 
 function App() {
   return (
