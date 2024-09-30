@@ -1,0 +1,25 @@
+footer {
+  justify-self: flex-end;
+  width: 100%;
+  padding: 45px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  color: beige;
+  text-decoration: none;
+}
+
+a:hover {
+  color: chocolate;
+  transition: 0.25s;
+}
+
+.rules-box {
+  display: flex;
+}
+
+.rules-box > p {
+  margin-right: 20px;
+  color: beige;
+}

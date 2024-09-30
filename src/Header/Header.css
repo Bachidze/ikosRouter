@@ -1,0 +1,17 @@
+header {
+  padding: 45px 20px;
+}
+
+ul {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+}
+li {
+  cursor: pointer;
+  color: beige;
+}
+li:hover {
+  color: chocolate;
+  transition: 0.25s;
+}
